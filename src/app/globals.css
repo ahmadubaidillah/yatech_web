@@ -31,3 +31,20 @@ body {
     text-wrap: balance;
   }
 }
+
+.Hero{
+  background-image: url('https://s3-alpha-sig.figma.com/img/7a2e/8ce4/2c797b19b414899308bf608ba79eaba5?Expires=1708300800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=eiYNnH6OGDkLktAxrJ38R~KHRO8jiARR9QL~wpEk-5h257KvwvvU-HGivnpCoQZt1w7gySTycCWWyasq51j8aE0UnVxdc2ezFxQJ6pjXi--K6xkzGZcy7lMrzRkSv4zaq~hJoiPad06VfCiMF4vWOS9Ed1tDIo7Mf1WR9IIcIZmOIdEkC0gMlIOkXw6w4IA-3svE4VMpmdAcd2PXOHNXLol~QbRg4R7KRQ58KWjlGilt1NTpTeidMDiClLwHoNhwk1v3A2-O4a8eXP9IcZqOx~W8pruWLxsZbI6IqQYIjVES3ae5qluP1G4fIiItph6Fl9ZcE44epNjVoc4wOX2bZg__');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Title-1, .Title-2{
+  color: #F2F4F7;
+}
+.Title-2 span, .Title-3{
+  color: #004EE2;
+}
+.hero-text{
+  color: #F2F4F7;
+  font-size: 8px;
+}
